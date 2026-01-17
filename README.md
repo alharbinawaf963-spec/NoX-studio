@@ -1,2 +1,0 @@
-# NoX-studio
-NoX STORE
